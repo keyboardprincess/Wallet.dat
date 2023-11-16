@@ -13,9 +13,11 @@ Don’t forget that luck and good hashrate will also help you recover lost passw
 
 -   Popular passwords and passphrases:
 
--   ![](https://allprivatekeys.com/static/img/new-tab.svg)  [https://github.com/initstring/passphrase-wordlist](https://github.com/initstring/passphrase-wordlist)
--   ![](https://allprivatekeys.com/static/img/new-tab.svg)  [https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials](https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials)
--   ![](https://allprivatekeys.com/static/img/new-tab.svg)  [https://weakpass.com/wordlist](https://weakpass.com/wordlist)
+  [https://github.com/initstring/passphrase-wordlist](https://github.com/initstring/passphrase-wordlist)
+ 
+ [https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials](https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials)
+
+  [https://weakpass.com/wordlist](https://weakpass.com/wordlist)
 
 ## Extracting the Password Hash of wallet.dat
 
