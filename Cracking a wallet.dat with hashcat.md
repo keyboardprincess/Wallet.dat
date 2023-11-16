@@ -92,4 +92,4 @@ Execute:
 
 In a nutshell, with the mask attack we can reduce the keyspace to 52*26*26*26*26*10*10*10*10 (237,627,520,000) combinations. With the same cracking rate of 100 M/s, this requires  **just 40 minutes**  to complete.
 
-> I am not really a wiz at password cracking, you can use youtube, or give your wallet.dat file to a password cracking specialist to do it for you.
+> I am not really a wiz at password cracking, you can use youtube, or give your wallet.dat hash file to a password cracking specialist to do it for you.
