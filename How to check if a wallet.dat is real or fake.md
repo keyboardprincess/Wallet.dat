@@ -4,7 +4,7 @@ Wallet.dat is a file that **contains your private keys, public keys, scripts (wh
 
 ## How to check wallet.dat is real or fake?
 
-> NOTE: Bitcoin-QT wallet.dat files sometimes even include password clues or hints for cracking. With some luck, skills, and sufficient computing power, you may recover lost passwords and would be able to take a chance on guessing a password to some wallet and get access to bitcoins and altcoins. However, most of these files are fake or forged.
+> NOTE: Bitcoin-QT wallet.dat files sometimes even include password clues or hints for cracking. With some luck, skills, and sufficient computing power, you may recover lost passwords and would be able to take a chance on guessing a password to some wallet and get access to bitcoins and altcoins. However, some of these files can be faked or forged.
 
 ####  How to distinguish the authenticity of a file?
 
