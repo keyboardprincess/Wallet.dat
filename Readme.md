@@ -4,3 +4,5 @@
 [Cracking a wallet.dat with hashcat](https://github.com/keyboardprincess/Wallet.dat/blob/main/Cracking%20a%20wallet.dat%20with%20hashcat.md)
 
 [Get a wallet.dat](https://github.com/keyboardprincess/Wallet.dat/blob/main/Get%20a%20wallet.dat.md)
+
+[Import wallet.dat  into a Bitcoin Qt client](https://github.com/keyboardprincess/Wallet.dat/blob/main/Import-wallet.dat-into-a-Bitcoin-Qt-client.md)
